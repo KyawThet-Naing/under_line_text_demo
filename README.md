@@ -39,7 +39,8 @@ Uses
 ![demo_img](demo_img/img_4.png)
 
 
-##Demo Preview
-
+# Demo Preview 1
 ![demo_img](demo_img/img_1.png)
+
+# Demo Preview 2
 ![demo_img](demo_img/img_2.png)
